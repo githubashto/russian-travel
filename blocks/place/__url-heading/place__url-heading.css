@@ -1,0 +1,14 @@
+.place__url-heading {
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2.4px;
+  margin: 0 auto 12px;
+}
+
+.place__website::before {
+  content: 'URL ';
+  color: #aaa;
+}

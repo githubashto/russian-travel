@@ -1,0 +1,9 @@
+.header__lang-link_state_active {
+  border-bottom: 2px #fff solid;
+  cursor: default;
+  }
+
+  .header__lang-link_state_active:hover {
+    opacity: 1;
+  }
+
