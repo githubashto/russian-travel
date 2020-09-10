@@ -4,5 +4,6 @@
 **Интро**
 
 Здесь будет проект о путешествии по России.
+Ссылка: https://githubashto.github.io/russian-travel/
 
 Используемые инструменты: Grid, Flex, @font-face, медиазапросы.

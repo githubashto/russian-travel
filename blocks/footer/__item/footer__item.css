@@ -1,0 +1,14 @@
+.footer__item {
+  margin: 0 18px 0 auto;
+  transition: opacity 0.3s linear;
+}
+
+@media screen and (max-width: 560px) {
+  .footer__item {
+    margin: 0 auto 32px 0;
+  }
+
+  .footer__item:last-child {
+    margin-bottom: 0;
+  }
+ }

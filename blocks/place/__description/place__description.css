@@ -1,11 +1,6 @@
 .place__description {
   grid-area: description;
   object-fit: contain;
-  min-width: 320px;
+  width: calc(100% - 16px*2);
+  margin: 0 auto;
 }
-
-@media screen and (max-width: 425px) {
-  .place__description {
-  margin-left: 16px;
-  }
- }
