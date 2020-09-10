@@ -26,7 +26,7 @@
 
  @media screen and (max-width: 425px) {
   .cover {
-    min-height: 320px;
+    min-height: 200px;
     margin-top: 64px;
   }
  }
