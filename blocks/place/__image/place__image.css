@@ -3,6 +3,7 @@
   grid-area: image;
   width: 100%;
   min-width: 320px;
+  max-width: 460px;
   min-height: 320px;
   display: block;
   object-fit: contain;
