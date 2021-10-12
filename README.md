@@ -1,9 +1,13 @@
 # Проект 3: Путешествие по России
 
-### Обзор
-**Интро**
+### Описание
+Одностраничный проект о путешествиях по России. Адаптивная вёрстка по макету в Figma.
 
-Здесь будет проект о путешествии по России.
-Ссылка: https://githubashto.github.io/russian-travel/
+#### Технологии
+HTML5 (БЭМ), CSS (Flexbox, Grid, @font-face, медиазапросы).
 
-Используемые инструменты: Grid, Flex, @font-face, медиазапросы.
+### Инструкция по развёртыванию 
+    $ git clone https://github.com/githubashto/russian-travel.git
+    
+#### Демо
+https://githubashto.github.io/russian-travel/
